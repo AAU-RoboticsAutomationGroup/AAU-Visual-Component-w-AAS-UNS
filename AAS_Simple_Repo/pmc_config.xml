@@ -4,9 +4,9 @@
   <sim>1</sim>
   <XIDMode>0</XIDMode>
   <uOrigin>
-   <x>0.000000</x>
+   <x>0.960000</x>
    <y>0.000000</y>
-   <rotation>0</rotation>
+   <rotation>1</rotation>
   </uOrigin>
   <fbus>
    <isSync>0</isSync>
@@ -89,16 +89,36 @@
  </mc>
  <flw>
   <layout>
-   <mcol>1</mcol>
-   <mrow>1</mrow>
+   <mcol>4</mcol>
+   <mrow>3</mrow>
    <masterFlwID>1</masterFlwID>
-   <flwCount>1</flwCount>
+   <flwCount>11</flwCount>
    <mapping>
     <col>
      <value>0</value>
+     <value>0</value>
+     <value>0</value>
+     <value>1</value>
+     <value>1</value>
+     <value>1</value>
+     <value>2</value>
+     <value>2</value>
+     <value>3</value>
+     <value>3</value>
+     <value>3</value>
     </col>
     <row>
      <value>0</value>
+     <value>1</value>
+     <value>2</value>
+     <value>0</value>
+     <value>1</value>
+     <value>2</value>
+     <value>0</value>
+     <value>2</value>
+     <value>0</value>
+     <value>1</value>
+     <value>2</value>
     </row>
    </mapping>
   </layout>
